@@ -1,0 +1,6 @@
+Correct Answers:
+
+1. $DATA
+2. Use of var keyword without initializing the variable.
+3. 34.40
+4. decimal x = 12.3 m;
