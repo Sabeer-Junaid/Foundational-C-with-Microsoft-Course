@@ -1,0 +1,7 @@
+1. What is the difference between Console.Write and Console.WriteLine? 
+
+Console.Write prints the output on a new line.
+
+Console.WriteLine prints the output on a new line.
+
+Console.WriteLine appends a new line after the output. < Correct! 
