@@ -1,0 +1,6 @@
+Correct Answers:
+
+1. '\"'
+2. 'Console.WriteLine($"My value: {value}");'
+3. The user's console doesn't support Unicode characters.
+4. 'directory = directory + @"\";'
