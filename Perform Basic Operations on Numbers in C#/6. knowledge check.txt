@@ -1,0 +1,6 @@
+Correct Answers!
+
+1. Console.WriteLine("Windows " + 7 + 4);
+2. 10
+3. 0
+4. value += 5;
