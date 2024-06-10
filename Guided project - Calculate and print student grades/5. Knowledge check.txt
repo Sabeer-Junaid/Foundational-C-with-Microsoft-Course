@@ -1,0 +1,5 @@
+Correct Answers!
+
+1. Casts the operands to truncate the result.
+2. It allows you to use string interpolation to include variables in the string.
+3. sophiaSum isn't initialized before use.
